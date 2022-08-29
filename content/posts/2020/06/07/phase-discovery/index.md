@@ -10,6 +10,6 @@ Today I decided to take a step back and try to discover what my game might "feel
 
 After I had a good idea, I started finding assets on the Unity store that might capture some of these feelings, and just throwing them together in a scene. Little care was taken here, this will ultimately be thrown away \- but the exercise allows me to visualize my ideas, run around \- and see if I like them in the real as much as I like them in my head. I call this the "Discovery" phase, and below is the results of today:
 
-{{ youtube(id="d7oDEk\_QOs4") }}
+{{ youtube(id="d7oDEk_QOs4", class="youtube") }}
 
 
