@@ -1,0 +1,41 @@
+@import "parts/_code.scss";
+@import "parts/_header.scss";
+@import "parts/_image.scss";
+@import "parts/misc.scss";
+@import "parts/table.scss";
+@import "parts/tags.scss";
+@import "parts/footer.scss";
+
+:root {
+    /* Used for: block comment, hr, ... */
+    --border-color: var(--bg-1);
+
+    /* Fonts */
+    --text-font: Georgia, "Times New Roman", Times, serif;
+    --header-font: -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    --code-font: monospace, monospace;
+}
+
+html {
+    background-color: var(--bg-0);
+    color: var(--text-0);
+    font-family: var(--text-font);
+    font-size: 10px;
+    line-height: 1.6em;
+}
+
+body {
+    font-size: 2rem;
+}
+
+.content {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 24px;
+    word-wrap: break-word;
+}
+
+.pagination {
+    padding: 30px 0 0;
+}
