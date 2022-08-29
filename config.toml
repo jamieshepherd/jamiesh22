@@ -14,7 +14,6 @@ highlight_theme = "ayu-dark"
 
 [extra]
 toc = false
-use_cdn = false
 favicon = "/icon/favicon.png"
 theme = "auto"
 
