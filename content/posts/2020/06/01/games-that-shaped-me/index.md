@@ -1,8 +1,9 @@
 +++
 title = "Games that shaped me"
 date = 2020-06-01T06:25:36+00:00
+tags=["Games", "Inspiration"]
 +++
-Here are some games that I really enjoyed \- they aren't necessarily inspiration for my current project \- but games that inspired me and captured my imagination (and time). I expect to add to this list over time.
+Here are some games that I really enjoyed - they aren't necessarily inspiration for my current project - but games that inspired me and captured my imagination (and time). I expect to add to this list over time.
 
 ### Ecco the Dolphin ###
 
@@ -34,27 +35,27 @@ The territory mechanic of Settlers 3 was fantastic, and to my knowledge hasn't b
 
 ![Try The Settlers 3 History Edition for free from 09.01.2020 to ...](settlers-3.jpg)
 
-### Half\-Life 1 & 2 ###
+### Half-Life 1 & 2 ###
 
 Classic. Spawned an amazing modding scene. Both games were revolutionary for their time.
 
 ![Half-Life NPCs Can Smell Corpses](half-life.webp)
 
-### Counter\-Strike 1.6 ###
+### Counter-Strike 1.6 ###
 
-I spent about 10 years playing Counter\-Strike, semi\-professionally. Nothing has matched the gameplay "feel" to me since. This could obviously be nostalgia, but something about the way enemies fly back after being headshot felt amazing. Also had an innovative economy, and classic maps that stood the test of time and are still fun more than 15 years later.
+I spent about 10 years playing Counter-Strike, semi-professionally. Nothing has matched the gameplay "feel" to me since. This could obviously be nostalgia, but something about the way enemies fly back after being headshot felt amazing. Also had an innovative economy, and classic maps that stood the test of time and are still fun more than 15 years later.
 
 ![Half-Life NPCs Can Smell Corpses](counter-strike.jpg)
 
 ### World of Warcraft ###
 
-Great social experience, but this was the first game where I fell in love with the world. Each zone was distinct and recognizable, had its own music, different NPCs. It was scary as a low level to visit high level places \- but you knew at some point you'd be strong enough to venture further.
+Great social experience, but this was the first game where I fell in love with the world. Each zone was distinct and recognizable, had its own music, different NPCs. It was scary as a low level to visit high level places - but you knew at some point you'd be strong enough to venture further.
 
 ![Ironforge Enrtance Gathering at World of Warcraft Nexus - Mods and ...](world-of-warcraft.jpg)
 
 ### Bioshock Infinite ###
 
-The art style of Bioshock Infinite drew me in, having been a huge fan of the previous games \- this one became an instant classic for me. As far as story\-writing in games goes, this was the pinnacle for me. The closing scene left me speechless for minutes. I would love to make a game that has this effect on players.
+The art style of Bioshock Infinite drew me in, having been a huge fan of the previous games - this one became an instant classic for me. As far as story-writing in games goes, this was the pinnacle for me. The closing scene left me speechless for minutes. I would love to make a game that has this effect on players.
 
 ![Time Sink: Columbia Tourism And Gaming Photojournalism In ...](bioshock-infinite.jpg)
 
