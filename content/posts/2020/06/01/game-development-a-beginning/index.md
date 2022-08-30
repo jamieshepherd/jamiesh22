@@ -2,6 +2,7 @@
 title = "Game development: A beginning"
 date = 2020-06-01T03:11:18+00:00
 aliases = ["posts/2020/06/01/hello-world-2"]
+[taxonomies]
 tags=["Game Dev", "Unity", "Unreal"]
 +++
 When I was in my early twenties - with not much going on in my life - I decided to make a change. I remember being in my parents garden on a sunny day kicking a ball around with Ziggy, the dog. I didn't know what I wanted to do with my life, I'd quit my job and spent most of my days sleeping and playing video games.

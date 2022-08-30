@@ -1,6 +1,7 @@
 +++
 title = "Games that shaped me"
 date = 2020-06-01T06:25:36+00:00
+[taxonomies]
 tags=["Games", "Inspiration"]
 +++
 Here are some games that I really enjoyed - they aren't necessarily inspiration for my current project - but games that inspired me and captured my imagination (and time). I expect to add to this list over time.
