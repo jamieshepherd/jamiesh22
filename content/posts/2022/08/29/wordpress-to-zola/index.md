@@ -24,7 +24,7 @@ Most of the setup was out-of-the-box following the Zola install instructions, bu
 ### Directory structure
 My WordPress installation had "SEO friendly" URLs, including things like the date (e.g. /2020/01/20/slug-here). I think Zola by default expects a more flat structure. To ensure my posts ended up in the posts index, I had to add an `_index.md` file to each directory with the following contents:
 
-```markdown
+```md
 +++
 transparent = true
 in_search_index = false
@@ -38,22 +38,22 @@ render = false
 I also noticed after conversion that an old post had an incorrect title. Nobody visits this blog, but as an exercise in corrrectness I wanted to make sure that old URLs would redirect correctly. This can be achieved in the markdown front-matter, with the `aliases` property. For example, [this post](@/posts/2020/06/01/game-development-a-beginning/index.md) was incorrectly titled "hello-world-2" in my WordPress blog. So `aliases = ["posts/2020/06/01/hello-world-2"]` was required to forward the old link correctly.
 
 ### Images
-I have a handful of images in some posts. There are a few ways to achieve asset linking in Zola, but the easiest for me was to throw the image in the same directory as the post. Unfortunately to make the relative images work correctly - I had to restructure my posts a little bit from:
+I have a handful of images in some posts. There are a few ways to achieve asset linking in Zola, but the easiest for me was to throw the image in the same directory as the post. Unfortunately to make the relative images work correctly - I had to restructure my posts a little from:
 
-```
-    - /2022
-        - /08
-            - /29
-                - wordpress-to-zola.md
+```txt
+- /2022
+    - /08
+        - /29
+            - wordpress-to-zola.md
 ```
 
 to:
-```
-    - /2022
-        - /08
-            - /29
-                - /wordpress-to-zola
-                    - index.md
+```txt
+- /2022
+    - /08
+        - /29
+            - /wordpress-to-zola
+                - index.md
 ```
 
 Then, I could simply throw images into the post folder, and reference them relatively with simple markdown.
