@@ -40,7 +40,7 @@ I also noticed after conversion that an old post had an incorrect title. Nobody 
 ### Images
 I have a handful of images in some posts. There are a few ways to achieve asset linking in Zola, but the easiest for me was to throw the image in the same directory as the post. Unfortunately to make the relative images work correctly - I had to restructure my posts a little from:
 
-```txt
+```md
 - /2022
     - /08
         - /29
@@ -48,7 +48,7 @@ I have a handful of images in some posts. There are a few ways to achieve asset 
 ```
 
 to:
-```txt
+```md
 - /2022
     - /08
         - /29
