@@ -7,12 +7,8 @@
 }
 
 .centered-header {
+    margin: 80px 0;
     font-family: var(--header-font);
-
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     text-align: center;
     font-size: 4em;
 }
