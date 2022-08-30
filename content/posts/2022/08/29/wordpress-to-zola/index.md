@@ -64,3 +64,6 @@ I used Netlify to deploy this blog, and there's a great setup guide in the Zola 
 
 ## To conclude
 That's about it, all in all I'd say the migration took about an hour with the gotchas involved - but with that knowledge in mind would have taken 15 minutes if I were to do it again. I wanted to check my PageSpeed Insights score, which hit 100 in mobile and desktop - a promising start. Checking the Network tab in Chrome Dev Tools further impressed me, with just 3kb sent over the initial load. Using the Netlify static-site CDN should make the site near instant for anyone around the world to load. Neat!
+
+### Update
+I _am_ having an issue right now with minification of code blocks. In development mode, the minification does not affect `pre` tags, as expected. However, in build and deployment, the spacing is removed from code blocks. As you can probably tell from the code blocks in this article, the formatting is therefore broken. Still working on this, and will update the post if I find a solution. If you have any ideas, please let me know!
