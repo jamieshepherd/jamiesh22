@@ -35,7 +35,7 @@ render = false
 `transparent = true` is the line that surfaces the posts to the top level index. `in_search_index` and `render` were needed to prevent those directories showing up in the sitemap, and being visitable on their own.
 
 ### Aliases
-I also noticed after conversion that an old post had an incorrect title. Nobody visits this blog, but as an exercise in corrrectness I wanted to make sure that old URLs would redirect correctly. This can be achieved in the markdown front-matter, with the `aliases` property. For example, [this post](@posts/2020/06/01/game-development-a-beginning/) was incorrectly titled "hello-world-2" in my WordPress blog. So `aliases = ["posts/2020/06/01/hello-world-2"]` was required to forward the old link correctly.
+I also noticed after conversion that an old post had an incorrect title. Nobody visits this blog, but as an exercise in corrrectness I wanted to make sure that old URLs would redirect correctly. This can be achieved in the markdown front-matter, with the `aliases` property. For example, [this post](@/posts/2020/06/01/game-development-a-beginning/index.md) was incorrectly titled "hello-world-2" in my WordPress blog. So `aliases = ["posts/2020/06/01/hello-world-2"]` was required to forward the old link correctly.
 
 ### Images
 I have a handful of images in some posts. There are a few ways to achieve asset linking in Zola, but the easiest for me was to throw the image in the same directory as the post. Unfortunately to make the relative images work correctly - I had to restructure my posts a little bit from:
