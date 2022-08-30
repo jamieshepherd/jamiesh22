@@ -21,7 +21,7 @@ This had a novel art style, where everything was drawn into the scene by an arti
 
 Great puzzles, funny dialogue, classic.
 
-![The Secret of Monkey Island • The Register](monkey-island.jpg)
+![The Secret of Monkey Island • The Register](monkey-island.webp)
 
 ### Seven Kingdoms ###
 
